@@ -9,28 +9,7 @@
   <h3><b>TaskMate</b></h3>
 </div>
 
-# 📗 Table of Contents     
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 TaskMate ](#-space-travelers-hub-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👤 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
 
 # 📖 TaskMate <a name="about-project"></a>
 
@@ -56,7 +35,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Experince a live demo](https://taskmate-nwzt.onrender.com/)
+- [Experince a live demo](https://taskmate-flame.vercel.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -77,7 +56,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/shihabrafio/Taskmate.git
+  git clone https://github.com/tawsif0/Taskmate.git
 ```
 
 ### Install
@@ -107,22 +86,14 @@ To run tests, run:
 
 ### Deployment
 
-You can deploy this project using, Netlify:
+You can deploy this project using, Vercel:
 
 - I used Render to delpoy the project.
-- For more information, check [Netlify](https://www.render.com/) website.
+- For more information, check [Vercel](https://www.vercel.com/) website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👤 Authors <a name="authors"></a>
 
-👤 **A.I.M. Shihab Uddin Khan**
-
-- GitHub: [@shihabrafio](https://github.com/shihabrafio)
-- Twitter: [@shihab_uddin19](https://twitter.com/shihab_uddin19)
-- LinkedIn: [Shihab Uddin Khan](https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
